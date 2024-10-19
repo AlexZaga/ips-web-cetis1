@@ -1,0 +1,23 @@
+{
+  "name": "ips-web-cetis1",
+  "version": "1.0.0",
+  "description": "IPS Site Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexZaga/ips-web-cetis1.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "React"
+  ],
+  "author": "IPS-CETIS1",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AlexZaga/ips-web-cetis1/issues"
+  },
+  "homepage": "https://github.com/AlexZaga/ips-web-cetis1#readme"
+}
